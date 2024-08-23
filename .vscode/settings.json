@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "btree.h": "c",
+        "stdint.h": "c",
+        "utility.h": "c",
+        "string.h": "c",
+        "stdatomic.h": "c",
+        "stdio.h": "c"
+    }
+}
